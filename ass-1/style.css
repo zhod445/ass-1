@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: bisque;
+}
+.navbar-nav{
+    margin-left: 38rem;
+}
+.nav-item:hover{
+background: rgba(255, 255, 255, 0.397);
+border-radius: 4px;
+color: white;
+}
+
+.sign-up:hover{
+    background: wheat;
+}
+.head{
+    font-size: 40px;
+    font-weight: 600;
+    width: 400px;
+    font-family: serif;
+    color:darkslateblue;
+}
+.bi{
+    color: darkslateblue;
+    font-size: 20px;
+}
+
+.body{
+    margin-left: 50px;
+}
+.body-con{
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 80px;
+}
+
+.bottom{
+    display: flex;
+}
+.bottom-1{
+    width: 250px;
+    height: 130px;
+    
+}
+.bottom-1-1{
+    font-weight: bold;
+    font-size: 19px;
+    font-family: serif;
+    color: darkslateblue;
+    font-size: 19px;
+}
+.bottom-1-2{
+font-weight: bold;
+font-family: serif;
+color: darkslateblue;
+font-size: 19px;
+}
+.bottom-2{
+    width: 250px;
+    height: 130px;
+}
+.bottom-2-head{
+    font-weight: bold;
+    font-family: serif;
+    font-size: 19px;
+    color: darkslateblue;
+}
+.bottom-2-content{
+    font-size: 13px;
+}
+.bottom-3{
+    width: 250px;
+    height: 130px;
+}
+.bottom-3-1{    
+font-weight: bold;
+font-family: serif;
+font-size: 18px;
+color: darkslateblue;
+}
+.bottom-3-2{    
+font-weight: bold;
+font-family: serif;
+font-size: 18px;
+color: darkslateblue;
+}
+.btn-2 {
+    font-size: 15px;
+    color: darkslateblue;
+
+}
+
+#dropdownMenuButton{
+    font-size: 13px;
+    font-weight: bold;
+    color: indigo;
+    
+}
